@@ -1,103 +1,136 @@
-## Обо мне
+# Hi, I'm Leonid 👋
 
-### 1. Профессиональный вектор и специализация
+### Junior Python Developer | Automation & Backend
 
-Моя главная экспертиза прямо сейчас — анализ данных и машинное обучение (Junior Data Scientist).
+I build Python applications focused on business automation, backend logic,
+data processing and practical problem solving.
 
-Я прошел полный цикл создания DS-продукта: от парсинга данных до обучения моделей и развертывания веб-приложения с аналитикой.
+My background combines software development with telecommunications,
+computer networks and applied mathematics.
 
-Что меня по-настоящему драйвит:
-
-Мне нравится находить скрытые закономерности в данных и превращать их в реальную пользу. Математика — это не просто теория, а инструмент, который я понимаю и применяю. Особенно интересны задачи прогнозирования (временные ряды, предсказание продаж) и анализ физических процессов.
-
-Также мне близка визуализация данных — когда из сырых цифр рождаются понятные графики и дашборды.
-
----
-
-### 2. Технологический багаж (Стек)
-
-**Языки программирования:**
-
-| Язык | Уровень |
-|------|---------|
-| Python | Средний |
-| SQL | начальный |
-| Bash | Начальный |
-
-**Фреймворки и библиотеки:**
-
-| Инструмент | Что делаю |
-|------------|-----------|
-| Pandas / NumPy | обработка и очистка данных, создание признаков |
-| SciPy | научные вычисления, работа с интегралами и ОДУ |
-| Matplotlib / Seaborn | визуализация (barplot, scatter, histogram, boxplot, heatmap) |
-| Scikit-learn | LinearRegression, GradientBoostingRegressor, TargetEncoder, StandardScaler |
-| Flask | веб-приложения, маршруты, шаблоны (Jinja2), сессии |
-| Tkinter / CustomTkinter | десктопные GUI (калькулятор, профиль, чат-мессенджер) |
-| streamlit | дашборд для визуализации математического аппарата применяемого в проектах | 
-| SymPy | символьная математика | 
-
-**Базы данных и инструменты:**
-
-| Инструмент | Что делаю |
-|------------|-----------|
-| SQLite | проектирование таблиц, внешние ключи, индексы |
-| Git | init, commit, push, branch, .gitignore |
-| Docker | Dockerfile, docker-compose |
-| WeasyPrint | генерация PDF-отчетов из HTML |
+Currently focused on building production-ready Python applications
+and looking for a Junior Python Developer / Automation & Backend role.
 
 ---
 
-### 3. Гордость и текущие проекты
+## 🛠 Tech Stack
 
-**Job Analyzer** — полноценный DS-продукт, который я сделал с нуля:
+### Core
+- Python
+- SQL / SQLite
+- Git / GitHub
+- Linux
+- Docker
 
-- Парсер собирает вакансии с hh.ru (пагинация, конвертация валют) → 5000+ вакансий, 17 профессий
-- SQLite хранит данные с индексами для ускорения запросов
-- ML-модели — отдельный Gradient Boosting Regressor для каждой профессии (11+ моделей)
-- Flask-приложение показывает аналитику (6 графиков) и экспортирует PDF-отчеты с метриками модели
-- Docker упаковывает всё в контейнер
+### Backend & Applications
+- asyncio
+- aiogram
+- Flask
+- NiceGUI
+- Streamlit
+- requests
 
-**Fourier** — проект по анализу поведения функции при тригонометрической сходимости ряда Фурье. Визуализация разложения функций в ряд Фурье с возможностью изменения количества членов ряда.
+### Data & Scientific Python
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- SciPy
+- SymPy
 
-**MND-interactive** - исследование нормального двумерного распределения. 
+### Networking
+- TCP/IP
+- OSI Model
+- VLAN
+- DHCP / DNS
+- NAT
+- ICMP
+- Wireshark
+- Basic router and switch configuration
 
 ---
 
-### 4. Вектор развития (Что дальше?)
+## 🚀 Selected Projects
 
-**Что я активно изучаю прямо сейчас:**
+### 🌼 Flower Shop CRM/ERP
+`Python` `NiceGUI` `SQLite` `Pandas`
 
-- Теория вероятностей и математическая статистика
-- Метод главных компонент (PCA)
+Modular CRM/ERP application for automating the operations of a small
+retail business.
 
-**Что планирую освоить в ближайшие полгода:**
+Main features:
+- inventory and supply management;
+- sales, returns and write-offs;
+- customer management;
+- discounts and bonus system;
+- cash operations;
+- role-based access;
+- employee task management;
+- business analytics;
+- PDF / Excel reporting;
+- auditing, logging and backups.
 
-| Приоритет | Технология / тема | Зачем |
-|-----------|-------------------|-------|
-| 1 | Теория вероятностей и матстатистика | база для любого DS |
-| 2 | Углубленная работа с временными рядами | прогнозирование |
-| 3 | PostgreSQL | для работы с большими данными |
-| 4 | Pytorch | 
-| 5 | CI/CD | автотесты при пуше | 
-| 6 | pytest | 
+Functional version completed and currently being prepared for production deployment.
 
 ---
 
-### 5. Личность и контакты
+### 🤖 Telegram Commerce Bot
+`Python` `aiogram` `asyncio` `SQLite`
 
-**Как я люблю работать:**
+Telegram commerce application connecting customers with a flower business.
 
-- Усидчивый и дотошный. Если код не работает или модель дает плохие метрики — разбираюсь до конца.
-- Мне нравится приводить данные в порядок, находить скрытые зависимости.
-- Умею учиться без внешнего контроля. Весь мой стек — самостоятельное изучение.
-- Открыт к обратной связи. Хочу работать в команде, где можно брейнштормить и учиться у более опытных коллег.
+Main features:
+- registration and user profiles;
+- product catalogue;
+- customer–florist communication;
+- delivery and additional-service information;
+- reviews and sales history;
+- administration tools;
+- customer broadcasts.
 
-**Контакты для связи:**
+Development completed. Preparing for server deployment.
 
-| Платформа | Ссылка / данные |
-|-----------|-----------------|
-| GitHub | https://github.com/Leonid2005ponchik |
-| Email | homoest.123@gmail.com |
-| VK | vk.com/socket1155 |
-| Telegram | @Lenchik_ponchik20 |
+---
+
+### 📊 Job Analyzer
+`Python` `Flask` `SQLite` `Pandas` `scikit-learn` `Docker`
+
+End-to-end job-market analytics application.
+
+- collects and processes vacancy data;
+- stores data in SQLite;
+- provides job-market analytics;
+- predicts salaries using machine learning;
+- provides a Flask web interface;
+- supports data visualization and reporting;
+- containerized with Docker.
+
+---
+
+## 🎓 Background
+
+**Diploma in Infocommunication Networks and Communication Systems**  
+Qualification: Telecommunications Equipment Installer  
+Graduated with honors.
+
+Completed approximately 10 months of cumulative practical training
+in telecommunications, including work with MSAN equipment, optical
+connections, twisted-pair cabling, patch panels and equipment diagnostics.
+
+---
+
+## 🌍 Languages
+
+- Russian — Native
+- English — A2
+- German — A2
+- Serbian — Beginner
+
+---
+
+## 📫 Contact
+
+- Email: homoest.123@gmail.com
+- Telegram: @Lenchik_ponchik20
+- GitHub: Leonid2005ponchik
+- LinkedIn: [add link]
