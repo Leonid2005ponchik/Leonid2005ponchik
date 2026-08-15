@@ -1,4 +1,4 @@
-# Hi, I'm Leonid 👋
+# Hi, I'm Leonid 
 
 ### Junior Python Developer | Automation & Backend
 
@@ -13,7 +13,7 @@ and looking for a Junior Python Developer / Automation & Backend role.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Core
 - Python
@@ -50,9 +50,9 @@ and looking for a Junior Python Developer / Automation & Backend role.
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🌼 Flower Shop CRM/ERP
+### Flower Shop CRM/ERP
 `Python` `NiceGUI` `SQLite` `Pandas`
 
 Modular CRM/ERP application for automating the operations of a small
@@ -74,7 +74,7 @@ Functional version completed and currently being prepared for production deploym
 
 ---
 
-### 🤖 Telegram Commerce Bot
+### Telegram Commerce Bot
 `Python` `aiogram` `asyncio` `SQLite`
 
 Telegram commerce application connecting customers with a flower business.
@@ -92,7 +92,7 @@ Development completed. Preparing for server deployment.
 
 ---
 
-### 📊 Job Analyzer
+### Job Analyzer
 `Python` `Flask` `SQLite` `Pandas` `scikit-learn` `Docker`
 
 End-to-end job-market analytics application.
@@ -107,7 +107,7 @@ End-to-end job-market analytics application.
 
 ---
 
-## 🎓 Background
+## Background
 
 **Diploma in Infocommunication Networks and Communication Systems**  
 Qualification: Telecommunications Equipment Installer  
@@ -119,7 +119,7 @@ connections, twisted-pair cabling, patch panels and equipment diagnostics.
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - Russian — Native
 - English — A2
@@ -128,7 +128,7 @@ connections, twisted-pair cabling, patch panels and equipment diagnostics.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: homoest.123@gmail.com
 - Telegram: @Lenchik_ponchik20
