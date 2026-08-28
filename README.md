@@ -133,4 +133,4 @@ connections, twisted-pair cabling, patch panels and equipment diagnostics.
 - Email: homoest.123@gmail.com
 - Telegram: @Lenchik_ponchik20
 - GitHub: Leonid2005ponchik
-- LinkedIn: [add link]
+
